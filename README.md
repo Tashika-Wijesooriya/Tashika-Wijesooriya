@@ -65,10 +65,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+  
+  <img src="https://komarev.com/ghpvc/?username=tashika-wijesooriya&style=flat-square&color=blue" alt="Profile Views" width="15%" style="vertical-align: middle;" />
+   <br /> <br />
   <img src="https://github-readme-stats.vercel.app/api?username=tashika-wijesooriya&show_icons=true&theme=radical&count_private=true" alt="Tashika's GitHub Stats" />
+  <br /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashika-wijesooriya&layout=compact&theme=radical" alt="Top Languages" />
+  <br /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tashika-wijesooriya&theme=radical" alt="GitHub Streak" />
+  <br /> <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashika-wijesooriya&theme=radical" alt="Profile Summary" />
+  <br /> <br />
 </div>
 
----
 
 ## 📫 How to Reach Me
 
